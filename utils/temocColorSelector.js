@@ -1,4 +1,4 @@
-const { temocColors } = require("./config.json");
+const { temocColors } = require("../config.json");
 
 module.exports = {
   getTemocColor() {
